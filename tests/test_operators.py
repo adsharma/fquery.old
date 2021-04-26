@@ -27,7 +27,7 @@ class QueryTests(unittest.TestCase):
                 "None": [
                     {"name": "id1", ":id": 1},
                     {"name": "id2", ":id": 2},
-                    {"name": "id3", ":id": 3},
+                    {"name": "id3", ":id": 4},
                 ]
             }
         ]
